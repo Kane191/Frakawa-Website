@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700,900');
+
+nav{
+    float: right;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li{
+    display: inline-block;
+    margin: 1em;
+    }
+
+nav a{
+    text-decoration-color: white;
+    color: #FFF;
+}
+
+h1{
+    text-align: center;  
+    color: #FFF;
+    font-size: 10em;
+}
+
+h2{
+    text-align: left;
+    color: #FFF;
+    font-size: 3em;   
+}
+
+h3{
+    text-align: left;
+    color: #FFF;
+    
+}
+
+p{
+    text-align: left;
+    color: #FFF;
+    
+}
+
+body{
+    margin: 0;
+    font-family: 'Raleway',sans-serif;
+    text-align: center
+        
+}
+
+.class-home{
+    background-image: url(../images/glen-carrie-_kFIIY0EYQ4-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 7em 0;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.class-about{
+    background-color: black;
+}
+
+.par-about{
+    
+}
+
